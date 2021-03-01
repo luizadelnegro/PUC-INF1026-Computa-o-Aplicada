@@ -1,1 +1,1 @@
-# PUC-INF1026-Computa-o-Aplicada
+# PUC-INF1026-Computacao-Aplicada
